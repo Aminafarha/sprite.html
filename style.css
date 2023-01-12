@@ -1,0 +1,209 @@
+@import url("https://fast.fonts.net/cssapi/8a04dc22-85c7-4eaf-9d7a-6b23de89105b.css");
+
+
+
+*{
+
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+    
+}
+
+.header{
+ 
+    width:100%;
+    height: 90px;
+    background-color:green;
+    display:flex;
+}
+.header1{
+    width:18%;
+    height:100%;
+    padding: 42px;
+    margin-top:0px
+
+}
+
+#mainlogo{
+    width: 156px;
+    height: 61px;
+    text-align: left;
+    margin-top: -27px;
+
+}
+.header2{
+    width:57%;
+    display:flex;
+
+
+    
+}
+.header2 h1
+{
+   
+   color:white;
+   padding: 38px;
+   font-size:14px;
+
+ 
+}
+.header3{
+    width:25%;
+    height:100%;   
+    display: flex;  
+    align-items: center;
+}
+.mediaimg{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+#mediaimg-profile{
+    margin-left: 15px;
+    width: 20px;
+    height: 20px;
+}
+.section1{
+    width:100%;
+    height:342px;
+    background-color: rgb(29 179 44);
+    display:flex;
+
+}
+.section1-left{
+    width: 50%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.section1-right{
+    width: 50%;
+    height:100%;
+    display: flex   ;
+}
+.button{
+    width: 184px;
+    height: 48px;
+    border-style: none;
+    background-color: #fff;
+    color: green;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+    transition: 1s;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+.section2{
+    width: 100%;
+    height: 558px;
+    padding-left: 300px;
+    padding-top: 75px;
+}
+.section3{
+    width: 100%;
+    height: 558px;
+    display: flex;
+    justify-content: center;
+    background-color: #f7f7f8
+
+    
+}
+.footer{
+    width: 100%;
+    height: 554px;
+    background-color: #009b4e;
+    margin-top: -128px;
+}
+.footer1{
+   
+    height: 499px;
+    margin-left: 121px;
+    display: flex;
+    
+    margin-right: 121px;
+    position: relative;
+    top: 55px;
+   
+}
+.sprite{
+    width: 251px;
+    height: 244px;
+    
+    margin-left: 50px;
+}
+.sprite img{
+   padding: 44px;
+    width: 213px;
+}
+  
+
+.footer2 {
+        max-width: 86%;
+}
+
+.footer2 h3{
+  color: #f7f7f8;
+  padding-top: 32px;
+  padding-left: 3px;
+  font-family: "FuturaBT W05 ExtraBlack Italic";
+  font-size: 16px;
+  line-height: 24px;
+
+}
+.connect-with-us{
+    margin-left: 70px;
+}
+.connect-with-us img{
+    width: 22px;
+    height: 62px;
+    margin-left: 18px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.connect-with-us svg:hover{
+    
+   transform: scale(2);
+   
+   
+    
+}
+.products{
+    width: 331px;
+    height: 291px;
+    margin-left: 221px;
+    margin-top: -49px;
+   
+}
+.products li{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    color: white;
+    font-size: 14px;
+    margin-left: 26px;
+    line-height: 31px;
+    list-style-type: none;
+}
+.product-head{
+    padding-bottom: 43px;
+    text-decoration: none;
+}
+.footer-final{
+    margin-top: -46px;
+    text-align: center;
+}
+.footer-title,.footer-title1{
+    font-size: 14px;
+    color: white;
+    font-family:"FuturaBT W05 ExtraBlack Italic";
+}
+.footer-title{
+
+    line-height: 50px;
+}
+
+
